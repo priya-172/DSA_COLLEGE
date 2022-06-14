@@ -1,4 +1,4 @@
-//bellman
+//bellman-->single source shortest path
 //tc->O((n-1)*E)
 //sc->O(n^2)
 //only for directed graph-->used to detect -ve edge cycle
